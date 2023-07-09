@@ -54,6 +54,38 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
+💼 Credentials
+Code:
+
+- Java
+- C#
+- HTML
+- CSS
+- JavaScript
+- Python (Rusty)
+
+Frameworks:
+
+- Node
+- React
+- React Native
+- Next
+- Tailwind
+
+Tools:
+
+- VS Code
+- Unity
+- Expo
+
+Experience:
+
+- Mentored for 3 months by Mukund Iyengar, Director of Launchpad
+- Self-Taught Game Developer (2 Years) and Front-End Web Developer (1 Year)
+
+You can view a few of my projects here on [my GitHub page](https://github.com/your-username)!
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
