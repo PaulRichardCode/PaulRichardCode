@@ -58,11 +58,9 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 Code:
 
 - Java
-- C#
 - HTML
 - CSS
 - JavaScript
-- Python (Rusty)
 
 Frameworks:
 
@@ -71,19 +69,20 @@ Frameworks:
 - React Native
 - Next
 - Tailwind
+- SpringBoot
+- Hibernate
 
 Tools:
 
 - VS Code
-- Unity
+- Eclipse
 - Expo
 
 Experience:
 
-- Mentored for 3 months by Mukund Iyengar, Director of Launchpad
-- Self-Taught Game Developer (2 Years) and Front-End Web Developer (1 Year)
+- Self-Taught Backend Developer (3 Years) and Front-End Web Developer (3 Year)
 
-You can view a few of my projects here on [my GitHub page](https://github.com/your-username)!
+You can view a few of my projects here on [my GitHub page]([https://paulrichard.vercel.app/])!
 
 
 ### :hammer_and_wrench: Languages and Tools :
