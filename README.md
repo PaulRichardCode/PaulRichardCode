@@ -57,30 +57,31 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 💼 Credentials
 Code:
 
-- Java
+- C#
+- PHP
 - HTML
 - CSS
 - JavaScript
 
 Frameworks:
 
-- Node
+- Asp.net
 - React
-- React Native
+- Node js
 - Next
 - Tailwind
-- SpringBoot
-- Hibernate
+- Azure
+- Aws
 
 Tools:
 
 - VS Code
-- Eclipse
+- Visual Studio
 - Expo
 
 Experience:
 
-- Self-Taught Backend Developer (3 Years) and Front-End Web Developer (3 Year)
+- Self-Taught Backend Developer (3 Years) and Front-End Web Developer (5 Year)
 
 You can view a few of my projects here on [my GitHub page]([https://paulrichard.vercel.app/])!
 
